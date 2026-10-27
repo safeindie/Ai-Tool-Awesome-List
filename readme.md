@@ -77,6 +77,9 @@ Here is a curated list of popular and practical AI tools for design, covering UI
 ### 8. Vue.ai
 - Description: AI suite for e-commerce, including product tagging, image editing, personalized recommendations, and more.
 - Website: https://vue.ai/
+### 9. Photoshoot.app
+- Description: AI commercial photography studio for e-commerce and fashion brands — turns a single product photo into studio-grade listing shots, model/OOTD photos, and campaign imagery in minutes. Freemium with 30 free credits.
+- Website: https://photoshoot.app/
 
 ---
 If you need more tools for a specific e-commerce or product design scenario, let me know!
